@@ -1,6 +1,6 @@
 # Aplicación de Autenticación y Gestor de Imágenes con Flutter & Node.js
 
-## 📌 Introducción
+## Introducción
 Este proyecto es una aplicación desarrollada en **Flutter** (Frontend) y **Node.js con Express y PostgreSQL** (Backend), que permite a los usuarios autenticarse, capturar imágenes, almacenarlas en el servidor y visualizarlas con su respectiva información.
 
 ---
