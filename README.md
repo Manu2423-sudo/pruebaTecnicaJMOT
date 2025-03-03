@@ -95,7 +95,7 @@ root/
 │── backend/        # Backend con Node.js y Express
 │── frontend/       # Aplicación Flutter
 │── database.sql    # Script para crear la base de datos
-│── README.md       # Documentación del proyecto
+README.md       # Documentación del proyecto
 ```
 
 ---
